@@ -3,7 +3,7 @@
 
 😄 I am a student at Code Institute studying Full Stack Software Development.
 
-🌱 I’m currently learning Bootstrap and will soon be deploying my first fully functioning Website as part of the program!
+🌱 I’m currently learning Bootstrap and will soon be deploying my first fully functioning Website as part of the programme!
 
 
 📫 How to reach me: [Dennis Chmieleski](linkedin.com/dennischmielewski)
