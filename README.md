@@ -6,8 +6,7 @@
 🌱 I’m currently learning Bootstrap and will soon be deploying my first fully functioning Website as part of the program!
 
 
-📫 How to reach me:
-[LinkedIn](linkedin.com/dennischmielewski)
+📫 How to reach me: [Dennis Chmieleski](linkedin.com/dennischmielewski)
 
 
 <!--
