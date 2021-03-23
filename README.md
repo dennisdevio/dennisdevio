@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Dennis 🤓
 
-## My name is Dennis Chmielewski
 
 😄 I am a student at Code Institute studying Full Stack Software Development.
 
