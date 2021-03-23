@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Dennis 🤓
 
 
-😄 I am a student at Code Institute studying Full Stack Software Development.
+😄 I am studying Full Stack Software Development at Code Institute.
 
-🌱 I’m currently learning Bootstrap and will soon be deploying my first fully functioning Website as part of the programme!
+🌱 I’m currently learning Bootstrap and will soon be deploying my first Milestone Project as part of the programme!
 
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
