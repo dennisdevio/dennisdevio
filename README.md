@@ -7,7 +7,7 @@
 
 
 📫 How to reach me:
-[LinkedIn] (linkedin.com/dennischmielewski)
+[LinkedIn](linkedin.com/dennischmielewski)
 
 
 <!--
