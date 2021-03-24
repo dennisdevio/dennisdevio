@@ -3,7 +3,7 @@
 
 😄 I am studying Full Stack Software Development at Code Institute.
 
-🌱 I’m currently learning Bootstrap and will soon be deploying my first Milestone Project as part of the programme!
+🌱 I’m currently working on my first Milestone Project as part of the Programme.
 
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
