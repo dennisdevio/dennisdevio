@@ -3,7 +3,7 @@
 
 😄 I am studying Full Stack Software Development at Code Institute.
 
-🌱 Recently finished my first Milestone Project as part of the programme assessment.
+🌱 Recently finished my first Milestone Project as part of the programme assessment. Check it out below.
 
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
