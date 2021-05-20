@@ -3,7 +3,7 @@
 
 😄 I am studying Full Stack Software Development at Code Institute.
 
-🌱 Recently finished my first Milestone Project as part of the programme assessment. 
+🌱 Currently working on my second Milestone Project as part of the programme assessment. 
 
 🔍 Check it out below.
 
