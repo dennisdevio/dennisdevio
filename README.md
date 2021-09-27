@@ -13,7 +13,6 @@
 
 ### 🏅
 
-![ctfl_small.jpg](https://github.com/tetrapak-dev/tetrapak-dev/blob/main/ctfl_small.jpg)
 <!--
 **tetrapak-dev/tetrapak-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
