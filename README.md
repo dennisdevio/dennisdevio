@@ -10,7 +10,7 @@
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
 
-
+![CTFL.jpg](https://github.com/tetrapak-dev/tetrapak-dev/blob/main/CTFL.jpg)
 <!--
 **tetrapak-dev/tetrapak-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
