@@ -11,7 +11,7 @@
 📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
 
 
-### Testing
+### Diplomas & Certificates
 
 🏅 
 
