@@ -1,14 +1,13 @@
 ### Hi there 👋 My name is Dennis 🤓
 
 
-😄 I am studying Full Stack Software Development at Code Institute.
-
-🌱 Currently working on my 4th and final Milestone Project as part of the programme assessment. 
-
-🔍 Check it out below.
-
+😄 Recently graduated from Code Institute's Full Stack Software Development Programme
+   
+🌱 Currently on the hunt for my first Junior Dev Position!
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
+
+🔍 Check out my Programme Milestone Projects below.
 
 
 ### Diplomas & Certificates
