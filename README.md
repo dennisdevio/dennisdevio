@@ -1,5 +1,6 @@
-### Hi there ![waving-hand](https://tenor.com/view/hi-gif-23520343) My name is Dennis 🤓
-
+<p>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> I'm Dennis 🤓
+</p>
 
 😄 Recently graduated from Code Institute's Full Stack Software Development Programme
    
