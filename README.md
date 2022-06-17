@@ -1,6 +1,6 @@
-<p>
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> I'm Dennis 🧔
-</p>
+
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> I'm Dennis 🧔
+
 
 😄 Recently graduated from Code Institute's Full Stack Software Development Programme
    
