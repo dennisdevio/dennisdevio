@@ -1,12 +1,16 @@
 
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> I'm Dennis 🧔
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17"> I'm Dennis 🧔
 
 
 😄 Recently graduated from Code Institute's Full Stack Software Development Programme
    
 🌱 Currently on the hunt for my first Junior Dev Position!
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/dennischmielewski/" target="_blank">Dennis Chmielewski</a>
+📫 How to reach me: 
+
+Portfolio Website: [http://dennisdev.io](http://dennisdev.io)
+
+LinkedIn: [Dennis Chmielewski](https://www.linkedin.com/in/dennischmielewski/)
 
 🔍 Check out my Programme Milestone Projects below.
 
