@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dennis 🤓
+### Hi there ![waving-hand](https://tenor.com/view/hi-gif-23520343) My name is Dennis 🤓
 
 
 😄 Recently graduated from Code Institute's Full Stack Software Development Programme
