@@ -4,7 +4,7 @@
 
 😄 Graduated from Code Institute's Full Stack Software Development Programme
    
-🌱 Currently working as a Junior Dev intern.
+🌱 Currently on the lookout for my next role.
 
 📫 How to reach me: 
 
