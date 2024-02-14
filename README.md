@@ -3,9 +3,9 @@
 
 😄 Graduated from Code Institute's Full Stack Software Development Programme
    
-🌱 Currently on the lookout for my next role.
+🌱 Check out my pinned Milestone Projects below 👇👇
 
-🔍 Check out my pinned Programme Milestone Projects below.
+🔍 Currently on the lookout for my next role.
 
 <br>
 
