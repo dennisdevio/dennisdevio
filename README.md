@@ -1,5 +1,5 @@
 
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17"> I'm Dennis 🧔
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> I'm Dennis 🧔
 
 
 😄 Graduated from Code Institute's Full Stack Software Development Programme
@@ -10,13 +10,23 @@
 <!-- Portfolio Website: [dennisdev.io](http://dennisdev.io) -->
 LinkedIn: [Dennis Chmielewski](https://www.linkedin.com/in/dennischmielewski/)
 
-🔍 Check out my Programme Milestone Projects below.
+🔍 Check out my pinned Programme Milestone Projects below.
 
 
-### Diplomas & Certificates
+## Diplomas & Certificates
 
 
 ![ctfl_small.jpg](https://github.com/tetrapak-dev/tetrapak-dev/blob/main/ctfl_small.jpg)
+
+
+
+
+## Frontend 
+
+![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 
 <!--
 **tetrapak-dev/tetrapak-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
