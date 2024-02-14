@@ -9,7 +9,7 @@
 
 <br>
 
-📫 Reach out to me through: 
+#### 📫 Reach out to me through 
 <!-- Portfolio Website: [dennisdev.io](http://dennisdev.io) -->
 LinkedIn: [Dennis Chmielewski](https://www.linkedin.com/in/dennischmielewski/)
 
