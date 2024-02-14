@@ -1,7 +1,7 @@
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> I'm Dennis 🧔
 
-😄 Graduated from Code Institute's Full Stack Software Development Programme
+😄 Graduated from Code Institute's Full Stack Software Development Programme in 2022.
    
 🌱 Check out my pinned Milestone Projects below 👇👇
 
