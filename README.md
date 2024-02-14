@@ -5,7 +5,7 @@
    
 🌱 Currently on the lookout for my next role.
 
-📫 How to reach me: 
+📫 Reach out to me at: 
 <!-- Portfolio Website: [dennisdev.io](http://dennisdev.io) -->
 LinkedIn: [Dennis Chmielewski](https://www.linkedin.com/in/dennischmielewski/)
 
