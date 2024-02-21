@@ -52,14 +52,17 @@ LinkedIn: [Dennis Chmielewski](https://www.linkedin.com/in/dennischmielewski/)
 ![Jinja](https://img.shields.io/badge/jinja-black?style=for-the-badge&logo=jinja&logoColor=%23B41717&labelColor=black&color=%23323330)
 ![Liquid](https://img.shields.io/badge/Liquid-%235E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
 
-
+<!-- 
 ## Frameworks
 
 ## Libraries
+-->
 
 ## APIs
 ![Google Maps](https://img.shields.io/badge/Google_maps-%23EB6E4C?style=for-the-badge&logo=google%20maps&logoColor=%23fff&color=%234285F4)
 ![OpenWeatherMap](https://img.shields.io/badge/Openweathermap-%23EB6E4C?style=for-the-badge&logoColor=%23EB6E4C&color=%23EB6E4C)
 ![Stripe](https://img.shields.io/badge/Stripe-%23008CDD?style=for-the-badge&logo=stripe&logoColor=%23fff&color=%233366CC)
 
+<!-- 
 ## Version Control | Coding
+-->
