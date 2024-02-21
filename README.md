@@ -40,11 +40,26 @@ LinkedIn: [Dennis Chmielewski](https://www.linkedin.com/in/dennischmielewski/)
 
 ![Markdown](https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&labelColor=black&color=%23f0f0f0)
 <br>
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+
+![HTML%](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330)
 <br>
-![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%23F7DF1E&color=%233776ab)
 <br>
-![Liquid](https://img.shields.io/badge/jinja-black?style=for-the-badge&logo=jinja&logoColor=%23B41717&labelColor=black&color=%23323330)
+
+![Jinja](https://img.shields.io/badge/jinja-black?style=for-the-badge&logo=jinja&logoColor=%23B41717&labelColor=black&color=%23323330)
 ![Liquid](https://img.shields.io/badge/Liquid-%235E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
+
+
+## Frameworks
+
+## Libraries
+
+## APIs
+![Google Maps](https://img.shields.io/badge/Google_maps-%23EB6E4C?style=for-the-badge&logo=google%20maps&logoColor=%23fff&color=%234285F4)
+![OpenWeatherMap](https://img.shields.io/badge/Openweathermap-%23EB6E4C?style=for-the-badge&logoColor=%23EB6E4C&color=%23EB6E4C)
+![Stripe](https://img.shields.io/badge/Stripe-%23008CDD?style=for-the-badge&logo=stripe&logoColor=%23fff&color=%233366CC)
+
+## Version Control | Coding
